@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rodrigo codignoli",
+			"Guilhermemau",
+			"Felipe L. Ewald"
+		]
+	},
+	"googlelogin-manage-yes": "sim",
+	"googlelogin-manage-no": "não",
+	"googlelogin-username": "Nome de usuário",
+	"googlelogin-create": "Criar com o Google",
+	"googlelogin-prefs-status": "Status do login Google:"
+}
